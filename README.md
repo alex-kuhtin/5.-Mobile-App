@@ -1,6 +1,5 @@
-+5.- Mobile App
-+=========
-+
-+Structure as always.
-+
-+![alt-tag](Home.jpg)
+Mobile App
+
+Structure as always.
+
+![alt-tag](Home.jpg)
